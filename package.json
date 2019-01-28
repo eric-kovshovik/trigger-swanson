@@ -1,0 +1,14 @@
+{
+  "name": "sms-notifier",
+  "version": "1.0.0",
+  "description": "Motivates an employee to work harder",
+  "main": "index.js",
+  "scripts": {
+    "test": "/motivate"
+  },
+  "author": "Eric Kovshovik",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
